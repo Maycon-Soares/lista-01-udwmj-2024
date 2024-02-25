@@ -42,7 +42,7 @@ Este é um arquivo JavaScript que calcula a média de três números e exibe o r
 
 ## Detalhes do Código
 
-O arquivo `script.js` contém o código JavaScript que calcula a média de três números. Ele define três variáveis (`num1`, `num2` e `num3`) que representam os números para calcular a média. A média é calculada como a soma desses números dividida por 3. O resultado é então exibido no console do navegador usando `console.log()`.
+- O arquivo `script.js` contém o código JavaScript que calcula a média de três números. Ele define três variáveis (`num1`, `num2` e `num3`) que representam os números para calcular a média. A média é calculada como a soma desses números dividida por 3. O resultado é então exibido no console do navegador usando `console.log()`.
 ---
 
 # Calculadora de Média em PHP
